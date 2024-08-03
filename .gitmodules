@@ -1,0 +1,4 @@
+[submodule "main/ulp/RVfplib"]
+	path = main/ulp/RVfplib
+	url = https://github.com/pulp-platform/RVfplib
+	branch = main
